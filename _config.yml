@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
+title: Edge Workshop Personal Page
 description: A simple template based on minimal jekyll theme
 show_downloads: True
 navigation:
@@ -7,3 +7,8 @@ navigation:
     url: /
   - title: Setup
     url: setup
+  - title: Syntax
+    url: syntax
+  - title: Example
+    url: example
+

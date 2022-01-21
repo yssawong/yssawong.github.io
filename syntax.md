@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://docs.github.com/assets/cb-42360/images/help/repository/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
@@ -122,4 +122,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 
-![Sourced From](https://pages-themes.github.io/minimal/)  
+[Sourced From](https://pages-themes.github.io/minimal/)  

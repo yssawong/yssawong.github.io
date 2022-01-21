@@ -11,4 +11,6 @@ navigation:
     url: syntax
   - title: Example
     url: example
+  - title: Resume
+    url: assets/files/sample_resume.pdf
 

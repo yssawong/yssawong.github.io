@@ -43,11 +43,19 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
+- This is also an unordered list
+- This is also an unordered list
+- This is also an unordered list
+
 ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
+
+1)  This is also an ordered list following a header.
+2)  This is also an ordered list following a header.
+3)  This is also an ordered list following a header.
 
 ###### Header 6
 
@@ -91,6 +99,10 @@ end
   - level 2 item
   - level 2 item
 - level 1 item
+
+### There's a horizontal rule below this.
+
+---
 
 ### Small image
 

@@ -15,7 +15,7 @@ I haven't read as many books as I probably should have over the last year, so I'
 
 
 ### Testing site that turned into a cool sound waveform visualizer
-During one of my research projects I made [a testing site](https://rinsworth.github.io/ventilator-site/) for our hardware, and it turns text into really loud sounds so be careful and don't use it with headphones on. But the cool thing about this project is that if you press "Click to begin using Webjack" and have the input set to your microphone, you can speak into it and make waveforms. I think that whistling a music scale into the mic and seeing the waveform go up is cool. 
+During one of my research projects I made **[a testing site](https://rinsworth.github.io/ventilator-site/)** for our hardware, and it turns text into really loud sounds so be careful and don't use it with headphones on. But the cool thing about this project is that if you press "Click to begin using Webjack" and have the input set to your microphone, you can speak into it and make waveforms. I think that whistling a music scale into the mic and seeing the waveform go up is cool. 
 
 ### Sticker board I made a few years ago at a makerspace
 ![Sticker Board](https://i.imgur.com/WDCaq87.jpeg)

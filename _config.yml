@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Edge Workshop Personal Page
+title: me website
 description: A simple template based on minimal jekyll theme
 show_downloads: False
 navigation:
@@ -13,4 +13,6 @@ navigation:
     url: example
   - title: Resume
     url: assets/files/sample_resume.pdf
+  -title: crab
+    url: test
 
